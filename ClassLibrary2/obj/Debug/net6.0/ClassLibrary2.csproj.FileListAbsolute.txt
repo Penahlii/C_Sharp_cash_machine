@@ -1,0 +1,11 @@
+C:\Users\asus\source\repos\C_sharp_cash_machine\ClassLibrary2\bin\Debug\net6.0\ClassLibrary2.deps.json
+C:\Users\asus\source\repos\C_sharp_cash_machine\ClassLibrary2\bin\Debug\net6.0\ClassLibrary2.dll
+C:\Users\asus\source\repos\C_sharp_cash_machine\ClassLibrary2\bin\Debug\net6.0\ClassLibrary2.pdb
+C:\Users\asus\source\repos\C_sharp_cash_machine\ClassLibrary2\obj\Debug\net6.0\ClassLibrary2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\source\repos\C_sharp_cash_machine\ClassLibrary2\obj\Debug\net6.0\ClassLibrary2.AssemblyInfoInputs.cache
+C:\Users\asus\source\repos\C_sharp_cash_machine\ClassLibrary2\obj\Debug\net6.0\ClassLibrary2.AssemblyInfo.cs
+C:\Users\asus\source\repos\C_sharp_cash_machine\ClassLibrary2\obj\Debug\net6.0\ClassLibrary2.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\C_sharp_cash_machine\ClassLibrary2\obj\Debug\net6.0\ClassLibrary2.dll
+C:\Users\asus\source\repos\C_sharp_cash_machine\ClassLibrary2\obj\Debug\net6.0\refint\ClassLibrary2.dll
+C:\Users\asus\source\repos\C_sharp_cash_machine\ClassLibrary2\obj\Debug\net6.0\ClassLibrary2.pdb
+C:\Users\asus\source\repos\C_sharp_cash_machine\ClassLibrary2\obj\Debug\net6.0\ref\ClassLibrary2.dll

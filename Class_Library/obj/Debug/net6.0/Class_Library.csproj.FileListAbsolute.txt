@@ -1,0 +1,15 @@
+C:\Users\asus\source\repos\C_sharp_cash_machine\Class_Library\bin\Debug\net6.0\Class_Library.deps.json
+C:\Users\asus\source\repos\C_sharp_cash_machine\Class_Library\bin\Debug\net6.0\Class_Library.dll
+C:\Users\asus\source\repos\C_sharp_cash_machine\Class_Library\bin\Debug\net6.0\Class_Library.pdb
+C:\Users\asus\source\repos\C_sharp_cash_machine\Class_Library\obj\Debug\net6.0\Class_Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\source\repos\C_sharp_cash_machine\Class_Library\obj\Debug\net6.0\Class_Library.AssemblyInfoInputs.cache
+C:\Users\asus\source\repos\C_sharp_cash_machine\Class_Library\obj\Debug\net6.0\Class_Library.AssemblyInfo.cs
+C:\Users\asus\source\repos\C_sharp_cash_machine\Class_Library\obj\Debug\net6.0\Class_Library.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\C_sharp_cash_machine\Class_Library\obj\Debug\net6.0\Class_Library.dll
+C:\Users\asus\source\repos\C_sharp_cash_machine\Class_Library\obj\Debug\net6.0\refint\Class_Library.dll
+C:\Users\asus\source\repos\C_sharp_cash_machine\Class_Library\obj\Debug\net6.0\Class_Library.pdb
+C:\Users\asus\source\repos\C_sharp_cash_machine\Class_Library\obj\Debug\net6.0\ref\Class_Library.dll
+C:\Users\asus\source\repos\C_sharp_cash_machine\Class_Library\obj\Debug\net6.0\Class_Library.csproj.AssemblyReference.cache
+C:\Users\asus\source\repos\C_sharp_cash_machine\Class_Library\obj\Debug\net6.0\Class_Library.csproj.CopyComplete
+C:\Users\asus\source\repos\C_sharp_cash_machine\Class_Library\bin\Debug\net6.0\Extra_Functions_Library.dll
+C:\Users\asus\source\repos\C_sharp_cash_machine\Class_Library\bin\Debug\net6.0\Extra_Functions_Library.pdb
